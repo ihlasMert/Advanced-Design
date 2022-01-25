@@ -17,11 +17,3 @@ This folder is the destination of your own Xcode project.
 The PDF file is the workbook for this project.
 
 
-Happy Coding,
-Robert Petras
-
-
-CREDO ACADEMY
-
-Website: https://credo.academy
-Twitter: https://twitter.com/robertpetras
